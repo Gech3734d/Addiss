@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div className="container" style={{display:"flex",justifyContent:"space-between",gap:16,flexWrap:"wrap"}}><span><b>addis eats.</b> — A little taste of home.</span><span>Made with care in Addis Ababa · Demo ordering experience</span></div></footer>}

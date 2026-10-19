@@ -1,0 +1,1 @@
+export default function Loading(){return <main className="container page-main"><div className="skeleton"/><div className="skeleton" style={{marginTop:18}}/><p className="muted">Preparing the menu…</p></main>}
