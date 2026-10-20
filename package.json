@@ -18,7 +18,10 @@
     "swr": "^2.3.3"
   },
   "devDependencies": {
+    "@types/node": "26.6.5",
+    "@types/react": "19.3.0",
     "eslint": "^8.57.1",
-    "eslint-config-next": "^14.2.30"
+    "eslint-config-next": "^14.2.30",
+    "typescript": "^5.8.3"
   }
 }
